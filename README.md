@@ -3,7 +3,7 @@
 A simplified Kanban-style issue tracker inspired by Jira, built as a frontend internship assignment.
 
 ## Live Demo
-[]
+https://india-gold.vercel.app/
 
 ## Features
 
